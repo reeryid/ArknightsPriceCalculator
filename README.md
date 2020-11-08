@@ -1,1 +1,1 @@
-# ArknightPriceCalculator
+# ArknightsPriceCalculator
